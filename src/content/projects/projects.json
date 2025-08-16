@@ -1,91 +1,62 @@
 [
-		{
-		"name": "translag",
-		"description": "Real-time Translation for Nigerian Languages.",
-		"website_url": "https://translag.vercel.app",
-		"github_url": null,
-		"image": "translag.png",
+	{
+		"name": "predictive-analytics-dashboard",
+		"description": "Interactive dashboard for predictive analytics with real-time data visualization, statistical modeling, and machine learning insights for business intelligence.",
+		"website_url": "https://predictive-dashboard.streamlit.app",
+		"github_url": "https://github.com/piusozegbe/predictive-analytics-dashboard",
+		"image": "predictive-dashboard.png",
 		"status": "active",
 		"tags": [
-			"flutter", "C# .net"
+			"python",
+			"streamlit",
+			"scikit-learn",
+			"pandas",
+			"plotly"
 		]
 	},
 	{
-		"name": "unikoin",
-		"description": "Event management platform, offering tools for seamless organization and tracking.",
-		"website_url": "https://unikoin.up.railway.app/",
-		"github_url": null,
-		"image": "unikoin.png",
+		"name": "statistical-inference-engine",
+		"description": "Comprehensive statistical analysis tool for hypothesis testing, confidence intervals, and regression analysis with automated report generation.",
+		"website_url": "https://stats-engine.herokuapp.com",
+		"github_url": "https://github.com/piusozegbe/statistical-inference-engine",
+		"image": "stats-engine.png",
 		"status": "active",
 		"tags": [
-			"asp.net"
+			"python",
+			"scipy",
+			"statsmodels",
+			"flask",
+			"matplotlib"
 		]
 	},
 	{
-		"name": "subscribe now",
-		"description": "Subscription management platform that enables users to easily subscribe to various services and manage their subscriptions.",
-		"website_url": "https://subscribenow.com.ng",
-		"github_url": null,
-		"image": "subscribe.png",
-		"status": "archived",
-		"tags": [
-			"asp.net"
-		]
-	},
-	{
-		"name": "mite",
-		"description": "CLI file reader that allows you to search for a specific word within a file and prints the line containing that word.",
-		"website_url": "https://crates.io/crates/mite",
-		"github_url": "https://github.com/THEJOHNCALEB/mite",
-		"image": "mite.png",
+		"name": "time-series-forecaster",
+		"description": "Advanced time series forecasting application using ARIMA, SARIMA, and deep learning models for financial and business data prediction.",
+		"website_url": "https://timeseries-forecaster.vercel.app",
+		"github_url": "https://github.com/piusozegbe/time-series-forecaster",
+		"image": "timeseries.png",
 		"status": "active",
 		"tags": [
-			"rust"
+			"python",
+			"tensorflow",
+			"prophet",
+			"fastapi",
+			"react"
 		]
 	},
 	{
-		"name": "keke",
-		"description": "Uber, but for autorickshaws :)",
-		"website_url": "http://usekeke.up.railway.app/",
-		"github_url": null,
-		"image": "keke.png",
-		"status": "unmaintained",
-		"tags": [
-			"asp.net"
-		]
-	},
-	{
-		"name": "tasuku",
-		"description": "A Flutter app designed to help users organize and track their daily tasks with ease.",
-		"website_url": null,
-		"github_url": "https://github.com/THEJOHNCALEB/Tasuku",
-		"image": "tasuku.png",
+		"name": "data-visualization-library",
+		"description": "Custom data visualization library with interactive charts, statistical plots, and dashboard components for exploratory data analysis.",
+		"website_url": "https://dataviz-lib.netlify.app",
+		"github_url": "https://github.com/piusozegbe/data-visualization-library",
+		"image": "dataviz.png",
 		"status": "active",
 		"tags": [
-			"Flutter"
-		]
-	},
-	{
-		"name": "supply chain",
-		"description": "A solution for regulating and optimizing supply chain processes in e-commerce businesses.",
-		"website_url": null,
-		"github_url": "https://github.com/THEJOHNCALEB/SupplyChain",
-		"image": "supply.png",
-		"status": "active",
-		"tags": [
-			"asp.net",
-			"c#"
-		]
-	},
-	{
-		"name": "moviely",
-		"description": "Get informations about a movie, search for a movie, view high rated, trending and most popular movies.",
-		"website_url": "https://moviely.netlify.app",
-		"github_url": "https://github.com/THEJOHNCALEB/Moviely",
-		"image": "moviely.png",
-		"status": "active",
-		"tags": [
-			"javascript"
+			"javascript",
+			"d3.js",
+			"react",
+			"typescript",
+			"chart.js"
 		]
 	}
 ]
